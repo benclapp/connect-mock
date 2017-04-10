@@ -1,0 +1,55 @@
+[{
+    "id": "0001",
+    "areaCategoryCode": "0000000001",
+    "description": "Adult",
+    "price": 12
+  },
+  {
+    "id": "0002",
+    "areaCategoryCode": "0000000001",
+    "description": "Student",
+    "price": 8
+  },
+  {
+    "id": "0003",
+    "areaCategoryCode": "0000000001",
+    "description": "Child",
+    "price": 8
+  },
+  {
+    "id": "0004",
+    "areaCategoryCode": "0000000001",
+    "description": "Senior Citizen",
+    "price": 10
+  },
+  {
+    "id": "0017",
+    "areaCategoryCode": "0000000001",
+    "description": "Adult Gift Voucher",
+    "price": 0
+  },
+  {
+    "id": "0018",
+    "areaCategoryCode": "0000000001",
+    "description": "Student Gift Voucher",
+    "price": 0
+  },
+  {
+    "id": "0019",
+    "areaCategoryCode": "0000000001",
+    "description": "Child Gift Voucher",
+    "price": 0
+  },
+  {
+    "id": "0020",
+    "areaCategoryCode": "0000000001",
+    "description": "Senior Gift Voucher",
+    "price": 0
+  },
+  {
+    "id": "0028",
+    "areaCategoryCode": "0000000001",
+    "description": "Ticket Voucher Redemption",
+    "price": 0
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "989212fa-2e64-4a4d-b05b-18a2d090f82d",
+  "cinemaChainId": "bf35bd24-b4fc-4d64-bbd8-0cd7ef06c00b",
+  "totalPrice": 9,
+  "bookingFee": 1,
+  "showtimes": [
+    {
+      "showtimeId": "3fadb760-b788-433f-a186-08d47a480868",
+      "siteId": "d14f0403-b0f8-4510-86f3-08d472624242",
+      "groupedTickets": [
+        {
+          "ticketTypeId": "0002",
+          "quantity": 1,
+          "ticketTypeDescription": "Student",
+          "priceEach": 8,
+          "ticketIds": [
+            1
+          ]
+        }
+      ],
+      "seats": [
+        {
+          "rowName": "H",
+          "seatName": "12",
+          "ticketId": 1
+        }
+      ]
+    }
+  ]
+}
